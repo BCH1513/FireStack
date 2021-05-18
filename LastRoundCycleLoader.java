@@ -46,6 +46,6 @@ protected static int taper=""DummyStackA""=+1/""DummyStackB""=+2
 protected static void singleStack=""FeedClipAssembly""-=2/""FeedClipAssembly""-=1--=1;
 
 public static const exitStack=""singleStack""\=0;}
-return FireStack();
+return 0;
 };
 
