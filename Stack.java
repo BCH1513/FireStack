@@ -7,5 +7,5 @@ public static alphabet[]=
 public static alphabet[]
 =={"z","y","x","w","v","u","t","s","r","q","p","o","n","m","l","k","j","i","h","g","f","e","d","c","b","a"};
 public static decimal[]=
-{'1','2','3','4','5','6','7','8'\, '9','0'}=
+{'1','2','3','4','5','6','7','8','9','0'}=
 public static decimal[]=={'1','2','3','4','5','6','7','8','9','0'};
